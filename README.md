@@ -33,6 +33,11 @@ Hardworking, curious, and quick to learn — I thrive on building solutions that
 
 ---
 
+## 📊 Quick Snapshot  
+![Stats](https://github-readme-stats.vercel.app/api?username=Muh-Afnan&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muh-Afnan&layout=compact&theme=tokyonight)  
+
+---
 ## 🎯 My Goal  
 Pursue a **PhD in AI/ML**, contribute to impactful open-source research, and keep pushing boundaries in applied AI.  
 
