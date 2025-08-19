@@ -14,7 +14,7 @@ Hardworking, curious, and quick to learn — I thrive on building solutions that
 ---
 
 ## 🔬 Currently Working on  
-- 🌞 **Solar Cell Monitoring** → Detecting dust, snow & damage; triggering automated cleaning  
+- 🌞 **Solar Cell Monitoring** → Detecting dust, snow & damage; triggering automated cleaning ; End to End Application 
 
 ---
 
