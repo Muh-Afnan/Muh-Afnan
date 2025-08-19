@@ -42,11 +42,11 @@
 
 ## 📊 GitHub Stats  
 
-![Afnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
+![Afnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muh-Afnan&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muh-Afnan&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muh-Afnan&theme=tokyonight)  
 
 ---
 
@@ -54,12 +54,6 @@
 - 🎓 Pursue a **PhD in AI/ML** (Europe / US / Canada).  
 - 🌍 Contribute to **open-source AI projects**.  
 - 📈 Keep learning, sharing, and solving impactful real-world problems.  
-
----
-
-## 📫 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
 
 ---
 
