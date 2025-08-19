@@ -34,7 +34,7 @@ Hardworking, curious, and quick to learn — I thrive on building solutions that
 ---
 
 ## 🎯 My Goal  
-Pursue a **PhD in AI/ML** abroad, contribute to impactful open-source research, and keep pushing boundaries in applied AI.  
+Pursue a **PhD in AI/ML**, contribute to impactful open-source research, and keep pushing boundaries in applied AI.  
 
 ---
 
