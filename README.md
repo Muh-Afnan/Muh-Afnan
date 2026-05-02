@@ -1,46 +1,104 @@
-# 👋 Hi, I’m Afnan  
+# Hi, I'm Afnan 👋
 
-I’m a **Machine Learning & AI Engineer** who loves solving **real-world problems** with data and intelligent systems.  
-Hardworking, curious, and quick to learn — I thrive on building solutions that *actually make an impact*.  
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Building+Real+Applications;Implementing+ML+from+Scratch+%E2%80%94+as+a+Hobby;For+the+Curious+People+Who+Want+to+See+Why)](https://git.io/typing-svg)
 
-## 🚀 What I Do Best  
-- 🧠 **Deep Learning**: Computer Vision, Medical Imaging, Real-time Detection  
-- 📊 **Data Science**: Cleaning, Modeling, Visualization, Automation  
-- ⚡ **App Development**: Python-based tools (Tkinter, Flask) that make workflows smarter  
-- 📈 **Business Automation**: Excel/Google Sheets + Zapier 
+</div>
 
 ---
 
-## 🔬 Currently Working on  
-- 🌞 **Solar Cell Monitoring** → Detecting dust, snow & damage; triggering automated cleaning ; End to End Application 
+I build real-world AI applications — RAG systems, LLM pipelines, AI agents, production ML.
+
+In my free time, I implement the internals from scratch.
+
+Not as an exercise. As a hobby. Because I use a library and can't stop wondering what's inside it.  
+So I open it up. Write it from raw math. See why it actually works.
+
+All of it is public — for the curious people who think the same way.
 
 ---
 
-## ⚒️ Core Tech Stack  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-</p>
+## What I'm Building (Professional)
+
+```python
+work = {
+    "LLM Applications":     ["RAG systems", "retrieval pipelines", "context management"],
+    "AI Agents":             ["multi-agent frameworks", "tool use", "orchestration"],
+    "Applied NLP":           ["generative AI", "embeddings", "fine-tuning"],
+    "Production ML":         ["end-to-end pipelines", "deployment", "monitoring"],
+}
+```
 
 ---
 
-## 📊 Quick Snapshot  
-![Stats](https://github-readme-stats.vercel.app/api?username=Muh-Afnan&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muh-Afnan&layout=compact&theme=tokyonight)  
+## What I Build for Fun (Open & Public)
+
+<details>
+<summary><b>🔍 From-Scratch Implementations — click to expand</b></summary>
+
+<br>
+
+| Repo | What It Is | Why It Matters |
+|------|-----------|----------------|
+| [PageRank from Linear Algebra](https://github.com/Muh-Afnan/PageRank-Algorithm-Using-Linear-Algebra) | Google's algorithm — raw linear algebra, no shortcuts | Eigenvalues are just power iteration in disguise |
+| [SVD from Scratch](https://github.com/Muh-Afnan/Singular-Value-Decomposition) | Singular Value Decomposition — no sklearn | The math behind dimensionality reduction & recommendation systems |
+| [PCA from Scratch](https://github.com/Muh-Afnan/PCA-From-Scratch) | Principal Component Analysis from first principles | Covariance matrices → eigenvectors → compression |
+| [Linear Algebra Implementation](https://github.com/Muh-Afnan/Linear-Algebra-Implementation) | Matrices, vectors, transforms from scratch | The foundation everything else runs on |
+
+More being added. All open. All free.
+
+</details>
 
 ---
-## 🎯 My Goal  
-Pursue a **PhD in AI/ML**, contribute to impactful open-source research, and keep pushing boundaries in applied AI.  
+
+## Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-⭐ *If you’re looking for someone who combines curiosity, problem-solving, and execution — let’s connect.*  
+## Background
+
+<details>
+<summary><b>🎨 Why a graphic designer → AI engineer?</b></summary>
+
+<br>
+
+4 years as a Senior Graphic Designer → now building AI systems.
+
+The design background is the lens, not the limitation.
+
+| Design | ML Equivalent |
+|--------|--------------|
+| Client revision cycles | Gradient descent |
+| Logo built for one client | Overfitting |
+| Design systems & components | Neural network layers |
+| Client feedback loops | Backpropagation |
+| Creative brief constraints | Regularization |
+
+When you've spent years in feedback loops and constraint-based systems, the math of ML clicks differently.
+
+</details>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-afnan-3272a2218)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/m.r_afnan)
+
+*For the curious people. Always open.*
+
+</div>
