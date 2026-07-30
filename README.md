@@ -35,20 +35,42 @@ work = {
 ---
 
 ## What I Build for Fun (Open & Public)
-
 <details>
 <summary><b>🔍 From-Scratch Implementations — click to expand</b></summary>
 
 <br>
 
+**Week 1 — Linear Algebra**
+
 | Repo | What It Is | Why It Matters |
 |------|-----------|----------------|
-| [PageRank from Linear Algebra](https://github.com/Muh-Afnan/PageRank-Algorithm-Using-Linear-Algebra) | Google's algorithm — raw linear algebra, no shortcuts | Eigenvalues are just power iteration in disguise |
-| [SVD from Scratch](https://github.com/Muh-Afnan/Singular-Value-Decomposition) | Singular Value Decomposition — no sklearn | The math behind dimensionality reduction & recommendation systems |
-| [PCA from Scratch](https://github.com/Muh-Afnan/PCA-From-Scratch) | Principal Component Analysis from first principles | Covariance matrices → eigenvectors → compression |
 | [Linear Algebra Implementation](https://github.com/Muh-Afnan/Linear-Algebra-Implementation) | Matrices, vectors, transforms from scratch | The foundation everything else runs on |
+| [Vector Transformations](https://github.com/Muh-Afnan/Vector-Transformations) | Eigenvectors & geometric transformations | See what linear algebra actually does to space |
+| [PCA from Scratch](https://github.com/Muh-Afnan/PCA-From-Scratch) | Principal Component Analysis from first principles | Covariance matrices → eigenvectors → compression |
+| [SVD from Scratch](https://github.com/Muh-Afnan/Singular-Value-Decomposition) | Singular Value Decomposition — no sklearn | The math behind dimensionality reduction & recommendation systems |
+| [PageRank from Linear Algebra](https://github.com/Muh-Afnan/PageRank-Algorithm-Using-Linear-Algebra) | Google's algorithm — raw linear algebra, no shortcuts | Eigenvalues are just power iteration in disguise |
 
-More being added. All open. All free.
+**Week 2 — Probability & Statistics**
+
+| Repo | What It Is | Why It Matters |
+|------|-----------|----------------|
+| [Probability Distributions](https://github.com/Muh-Afnan/probability-distribution) | Distribution simulator & visualizer | Stats foundations — see what randomness actually looks like |
+| [Central Limit Theorem](https://github.com/Muh-Afnan/Central-Limit-Theorem---Interactive-Visual-Proof) | Interactive visual proof | Why everything converges to normal — visually proven |
+| [Bayesian Inference Engine](https://github.com/Muh-Afnan/Bayesian-Inference-Engine) | Bayes theorem applied from scratch | Update beliefs with evidence — the engine behind modern AI |
+| [Hypothesis Testing Framework](https://github.com/Muh-Afnan/Hypothesis-Testing-Framework) | t-test, chi-square from scratch | Statistical rigor without scipy |
+| [Monte Carlo Simulation](https://github.com/Muh-Afnan/Monte-Carlo-Simulation---Pi-Estimation) | Pi estimation + finance applications | When math fails, simulate — probabilistic thinking in action |
+
+**Week 3 — Calculus & Optimization**
+
+| Repo | What It Is | Why It Matters |
+|------|-----------|----------------|
+| [Gradient Descent Visualizer](https://github.com/Muh-Afnan/Gradient-Descent-Visualizer) | 1D and 2D gradient descent with visualizations | See optimization happen on loss curves, contour maps, and 3D surfaces |
+| [Auto-Diff Engine](https://github.com/Muh-Afnan/Automatic-differentiation-engine-from-scratch) | Autograd engine built from scratch | This is the core of how PyTorch works internally |
+| [Optimizers from Scratch](https://github.com/Muh-Afnan/Optimizers-from-Scratch-SGD-Momentum-Adam) | SGD, Momentum, Adam — unified interface | Why Adam wins on deep networks and SGD wins on simple ones |
+| [Loss Landscape Explorer](https://github.com/Muh-Afnan/Convexity-Loss-Landscape-Explorer) | Convexity & loss surface analysis | The geometry that decides if your model converges |
+| [Newton's Method vs GD](https://github.com/Muh-Afnan/Newton-s-Method-vs-Gradient-Descent) | Second order vs first order — visual comparison | When curvature information is worth the compute cost |
+
+More being added weekly. All open. All free.
 
 </details>
 
