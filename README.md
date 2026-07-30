@@ -18,6 +18,8 @@ So I open it up. Write it from raw math. See why it actually works.
 All of it is public — for the curious people who think the same way.
 
 ---
+## 🚀 Current Challenge
+**[100 Days of ML From Scratch](https://github.com/Muh-Afnan/100-days-ml-from-scratch)** — Building every ML concept from raw math and Python. Currently on Week 4.
 
 ## What I'm Building (Professional)
 
