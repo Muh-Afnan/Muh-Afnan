@@ -1,118 +1,140 @@
-# Hi, I'm Afnan 👋
+# Muhammad Afnan
 
-<div align="center">
+**AI Engineer at Softlixx Technologies.** I use libraries professionally, then rebuild them from scratch to understand why they work.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Building+Real+Applications;Implementing+ML+from+Scratch+%E2%80%94+as+a+Hobby;For+the+Curious+People+Who+Want+to+See+Why)](https://git.io/typing-svg)
+Day job: RAG systems, LLM pipelines, agentic workflows, production ML.
+Free time: open the library, write it from raw math, prove to myself it works.
 
-</div>
+Not as an exercise. As a standard. Every library I use in production, I've rebuilt at least once.
 
----
-
-I build real-world AI applications — RAG systems, LLM pipelines, AI agents, production ML.
-
-In my free time, I implement the internals from scratch.
-
-Not as an exercise. As a hobby. Because I use a library and can't stop wondering what's inside it.  
-So I open it up. Write it from raw math. See why it actually works.
-
-All of it is public — for the curious people who think the same way.
-
----
-## 🚀 Current Challenge
-**[100 Days of ML From Scratch](https://github.com/Muh-Afnan/100-days-ml-from-scratch)** — Building every ML concept from raw math and Python. Currently on Week 4.
-
-## What I'm Building (Professional)
-
-```python
-work = {
-    "LLM Applications":     ["RAG systems", "retrieval pipelines", "context management"],
-    "AI Agents":             ["multi-agent frameworks", "tool use", "orchestration"],
-    "Applied NLP":           ["generative AI", "embeddings", "fine-tuning"],
-    "Production ML":         ["end-to-end pipelines", "deployment", "monitoring"],
-}
-```
+All of it is public, for the curious people who aren't satisfied with `import`.
 
 ---
 
-## What I Build for Fun (Open & Public)
+## 90 Days of ML From Scratch
+
+**[→ The challenge hub](https://github.com/Muh-Afnan/90-days-ml-from-scratch)**
+
+90 projects. Every major concept in modern ML, implemented from raw Python and NumPy. Each repo ships with a derivation, tests, visualizations, and a `learnings.md`.
+
+| Phase | Status |
+|---|---|
+| Weeks 1–3 · Linear Algebra, Probability & Stats, Calculus & Optimization | ✅ Days 1–15 |
+| Weeks 4–5 · Classical ML and Ensembles | ✅ Days 16–25 |
+| Week 6 · Neural Networks from Scratch | 🔨 In progress |
+| Weeks 7–16 · Deep Learning, Transformers, AI Engineering, Capstones | ⏳ Upcoming |
+
+---
+
+## What I use at work vs. what I've rebuilt
+
+The point of the challenge, in one table.
+
+| I ship with | I've rebuilt | Repo |
+|---|---|---|
+| `torch.autograd` | Reverse-mode automatic differentiation engine | [autodiff](https://github.com/Muh-Afnan/Automatic-differentiation-engine-from-scratch) |
+| `torch.optim.Adam` | SGD, Momentum, Adam with a unified interface | [optimizers](https://github.com/Muh-Afnan/Optimizers-from-Scratch-SGD-Momentum-Adam) |
+| `sklearn.decomposition.PCA` | Eigendecomposition-based PCA | [pca](https://github.com/Muh-Afnan/PCA-From-Scratch) |
+| `numpy.linalg.svd` | SVD with image compression demo | [svd](https://github.com/Muh-Afnan/Singular-Value-Decomposition) |
+| `sklearn.ensemble.RandomForestClassifier` | Bagging + feature importance on my own decision trees | [random-forest](https://github.com/Muh-Afnan/Random-Forest-from-Scratch-Bagging-Feature-Importance-) |
+| `xgboost` | Gradient boosting with XGBoost-style second-order splits | [gradient-boosting](https://github.com/Muh-Afnan/Gradient-Boosting-from-Scratch-XGBoost-Concepts-) |
+| `sklearn.svm.SVC` | SVM with the kernel trick, visualized | [svm](https://github.com/Muh-Afnan/SVM-from-Scratch-with-Kernel-Trick-Visualized) |
+| `sklearn.mixture.GaussianMixture` | GMM fitted with Expectation-Maximization | [gmm-em](https://github.com/Muh-Afnan/Gaussian-Mixture-Models-EM-Algorithm) |
+| `scipy.stats.ttest_ind` | Hypothesis testing framework (t-test, chi-square) | [hypothesis-testing](https://github.com/Muh-Afnan/Hypothesis-Testing-Framework) |
+| `networkx.pagerank` | PageRank as power iteration on a stochastic matrix | [pagerank](https://github.com/Muh-Afnan/PageRank-Algorithm-Using-Linear-Algebra) |
+
 <details>
-<summary><b>🔍 From-Scratch Implementations — click to expand</b></summary>
+<summary><b>All 25 implementations so far, by week</b></summary>
 
 <br>
 
 **Week 1 — Linear Algebra**
 
-| Repo | What It Is | Why It Matters |
-|------|-----------|----------------|
-| [Linear Algebra Implementation](https://github.com/Muh-Afnan/Linear-Algebra-Implementation) | Matrices, vectors, transforms from scratch | The foundation everything else runs on |
-| [Vector Transformations](https://github.com/Muh-Afnan/Vector-Transformations) | Eigenvectors & geometric transformations | See what linear algebra actually does to space |
-| [PCA from Scratch](https://github.com/Muh-Afnan/PCA-From-Scratch) | Principal Component Analysis from first principles | Covariance matrices → eigenvectors → compression |
-| [SVD from Scratch](https://github.com/Muh-Afnan/Singular-Value-Decomposition) | Singular Value Decomposition — no sklearn | The math behind dimensionality reduction & recommendation systems |
-| [PageRank from Linear Algebra](https://github.com/Muh-Afnan/PageRank-Algorithm-Using-Linear-Algebra) | Google's algorithm — raw linear algebra, no shortcuts | Eigenvalues are just power iteration in disguise |
+| Day | Repo | What it proves |
+|---|---|---|
+| 1 | [Matrix library](https://github.com/Muh-Afnan/Linear-Algebra-Implementation) | Matrices, vectors, transforms, no NumPy |
+| 2 | [Vector transformations](https://github.com/Muh-Afnan/Vector-Transformations) | What eigenvectors do to space, drawn |
+| 3 | [PCA](https://github.com/Muh-Afnan/PCA-From-Scratch) | Covariance → eigenvectors → compression |
+| 4 | [SVD](https://github.com/Muh-Afnan/Singular-Value-Decomposition) | Matrix factorization + image compression |
+| 5 | [PageRank](https://github.com/Muh-Afnan/PageRank-Algorithm-Using-Linear-Algebra) | Google's ranking is an eigenvector problem |
 
 **Week 2 — Probability & Statistics**
 
-| Repo | What It Is | Why It Matters |
-|------|-----------|----------------|
-| [Probability Distributions](https://github.com/Muh-Afnan/probability-distribution) | Distribution simulator & visualizer | Stats foundations — see what randomness actually looks like |
-| [Central Limit Theorem](https://github.com/Muh-Afnan/Central-Limit-Theorem---Interactive-Visual-Proof) | Interactive visual proof | Why everything converges to normal — visually proven |
-| [Bayesian Inference Engine](https://github.com/Muh-Afnan/Bayesian-Inference-Engine) | Bayes theorem applied from scratch | Update beliefs with evidence — the engine behind modern AI |
-| [Hypothesis Testing Framework](https://github.com/Muh-Afnan/Hypothesis-Testing-Framework) | t-test, chi-square from scratch | Statistical rigor without scipy |
-| [Monte Carlo Simulation](https://github.com/Muh-Afnan/Monte-Carlo-Simulation---Pi-Estimation) | Pi estimation + finance applications | When math fails, simulate — probabilistic thinking in action |
+| Day | Repo | What it proves |
+|---|---|---|
+| 6 | [Probability distributions](https://github.com/Muh-Afnan/probability-distribution) | Simulator and visualizer for the core distributions |
+| 7 | [Central Limit Theorem](https://github.com/Muh-Afnan/Central-Limit-Theorem---Interactive-Visual-Proof) | Why everything converges to normal, visually |
+| 8 | [Bayesian inference engine](https://github.com/Muh-Afnan/Bayesian-Inference-Engine) | Priors, likelihoods, posteriors, updated with evidence |
+| 9 | [Hypothesis testing](https://github.com/Muh-Afnan/Hypothesis-Testing-Framework) | t-test and chi-square without scipy |
+| 10 | [Monte Carlo](https://github.com/Muh-Afnan/Monte-Carlo-Simulation---Pi-Estimation) | Pi estimation and finance sims |
 
 **Week 3 — Calculus & Optimization**
 
-| Repo | What It Is | Why It Matters |
-|------|-----------|----------------|
-| [Gradient Descent Visualizer](https://github.com/Muh-Afnan/Gradient-Descent-Visualizer) | 1D and 2D gradient descent with visualizations | See optimization happen on loss curves, contour maps, and 3D surfaces |
-| [Auto-Diff Engine](https://github.com/Muh-Afnan/Automatic-differentiation-engine-from-scratch) | Autograd engine built from scratch | This is the core of how PyTorch works internally |
-| [Optimizers from Scratch](https://github.com/Muh-Afnan/Optimizers-from-Scratch-SGD-Momentum-Adam) | SGD, Momentum, Adam — unified interface | Why Adam wins on deep networks and SGD wins on simple ones |
-| [Loss Landscape Explorer](https://github.com/Muh-Afnan/Convexity-Loss-Landscape-Explorer) | Convexity & loss surface analysis | The geometry that decides if your model converges |
-| [Newton's Method vs GD](https://github.com/Muh-Afnan/Newton-s-Method-vs-Gradient-Descent) | Second order vs first order — visual comparison | When curvature information is worth the compute cost |
+| Day | Repo | What it proves |
+|---|---|---|
+| 11 | [Gradient descent visualizer](https://github.com/Muh-Afnan/Gradient-Descent-Visualizer) | Optimization on 1D curves, contours, 3D surfaces |
+| 12 | [Autodiff engine](https://github.com/Muh-Afnan/Automatic-differentiation-engine-from-scratch) | The core of how PyTorch computes gradients |
+| 13 | [Optimizers](https://github.com/Muh-Afnan/Optimizers-from-Scratch-SGD-Momentum-Adam) | SGD, Momentum, Adam compared head to head |
+| 14 | [Loss landscape explorer](https://github.com/Muh-Afnan/Convexity-Loss-Landscape-Explorer) | Convexity and the geometry of convergence |
+| 15 | [Newton vs gradient descent](https://github.com/Muh-Afnan/Newton-s-Method-vs-Gradient-Descent) | When curvature is worth the compute |
 
-More being added weekly. All open. All free.
+**Week 4 — Classical ML**
+
+| Day | Repo | What it proves |
+|---|---|---|
+| 16 | [Linear regression](https://github.com/Muh-Afnan/Linear-Regression-from-Scratch) | Closed form and gradient descent, full derivation |
+| 17 | [Logistic regression](https://github.com/Muh-Afnan/Logistic-Regression-Decision-Boundary-Visualizer) | Sigmoid, cross-entropy, decision boundaries drawn |
+| 18 | [Decision tree](https://github.com/Muh-Afnan/Decision-Tree-from-Scratch-ID3-Gini-) | ID3 and Gini splits, recursive tree building |
+| 19 | [K-Means](https://github.com/Muh-Afnan/K-Means-Clustering-from-Scratch-Convergence-Visualizer) | Lloyd's algorithm with convergence animation |
+| 20 | [Naive Bayes](https://github.com/Muh-Afnan/Naive-Bayes-Classifier-from-Scratch-on-Text-Data) | Text classification from counts and priors |
+
+**Week 5 — Advanced Classical ML**
+
+| Day | Repo | What it proves |
+|---|---|---|
+| 21 | [Random Forest](https://github.com/Muh-Afnan/Random-Forest-from-Scratch-Bagging-Feature-Importance-) | Bagging, OOB, feature importance |
+| 22 | [SVM](https://github.com/Muh-Afnan/SVM-from-Scratch-with-Kernel-Trick-Visualized) | Margins and the kernel trick, visualized |
+| 23 | [Gradient boosting](https://github.com/Muh-Afnan/Gradient-Boosting-from-Scratch-XGBoost-Concepts-) | Boosting internals, XGBoost concepts |
+| 24 | [KNN + KD-tree](https://github.com/Muh-Afnan/KNN-from-Scratch-KD-Tree-Optimization) | Distance search, then making it fast |
+| 25 | [GMM + EM](https://github.com/Muh-Afnan/Gaussian-Mixture-Models-EM-Algorithm) | Soft clustering with Expectation-Maximization |
 
 </details>
 
 ---
 
-## Stack
+## Professionally
 
-<div align="center">
+```python
+work = {
+    "LLM applications": ["RAG systems", "retrieval pipelines", "context management"],
+    "AI agents":        ["tool use", "orchestration", "multi-agent workflows"],
+    "Applied NLP":      ["embeddings", "fine-tuning", "generative AI"],
+    "Production ML":    ["end-to-end pipelines", "deployment", "monitoring"],
+}
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
+Python · PyTorch · NumPy · LangChain · scikit-learn · FastAPI · Docker · Git
 
 ---
 
-## Background
-
 <details>
-<summary><b>🎨 Why a graphic designer → AI engineer?</b></summary>
+<summary><b>Why a designer ended up here</b></summary>
 
 <br>
 
-4 years as a Senior Graphic Designer → now building AI systems.
+Four years in design at Softlixx, the last of them as Senior Graphic Designer, before moving into AI engineering full time.
 
 The design background is the lens, not the limitation.
 
-| Design | ML Equivalent |
-|--------|--------------|
+| Design | ML equivalent |
+|---|---|
 | Client revision cycles | Gradient descent |
-| Logo built for one client | Overfitting |
-| Design systems & components | Neural network layers |
+| A logo built for one client | Overfitting |
+| Design systems and components | Network layers |
 | Client feedback loops | Backpropagation |
 | Creative brief constraints | Regularization |
 
-When you've spent years in feedback loops and constraint-based systems, the math of ML clicks differently.
+Years inside feedback loops and constraint-based systems make the math of ML click differently.
 
 </details>
 
